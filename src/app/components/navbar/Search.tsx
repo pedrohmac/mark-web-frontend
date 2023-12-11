@@ -27,7 +27,7 @@ const Search = () => {
         >
             <div
                 className="
-                text-sn
+                text-sm
                 font-semibold
                 px-6
                 "
